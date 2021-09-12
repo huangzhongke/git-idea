@@ -15,5 +15,6 @@ public class GitUser {
         System.out.println("hot-fix test");
         System.out.println("hot-fix test2");
          System.out.println("i am coming from github");
+         System.out.println("push test");
     }
 }
